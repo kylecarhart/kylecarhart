@@ -6,7 +6,7 @@ My name is **Kyle Carhart**!
   - 3.93 GPA! 🧐
 - 💻 I currently work for **Capgemini** as an IT consultant.
   - I work mostly on supporting old **Java** applications and **Oracle** databases.
-- ⚡ My true passions of **Web Design** and **Development**. I love creating apps in my free time!
+- ⚡ My true passions of **Web Design and Development**. I love creating apps in my free time!
 
 
 I love all things Javascript and React! 🧡💯🔥
