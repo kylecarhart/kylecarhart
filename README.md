@@ -9,7 +9,7 @@ My name is **Kyle Carhart**!
 - ⚡ My true passions of **Web Design and Development**. I love creating apps in my free time!
 
 
-I love all things Javascript and React! 🧡💯🔥
+I love all things Javascript! 🧡💯🔥
 
 ### Check out some of my projects!
 
