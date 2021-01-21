@@ -13,6 +13,8 @@ I love all things Javascript and React! 🧡💯🔥
 
 ### Check out some of my projects!
 
-<a href="https://github.com/KMCGamer/google-domain-filter">
-    <img src="https://user-images.githubusercontent.com/77036988/105422494-d6084e00-5c11-11eb-81ca-1766437c07a7.png" alt="Google Domain Filter" title="Google Domain Filter" width="400px" /> 
-</a>
+<p align="center">
+  <a href="https://github.com/KMCGamer/google-domain-filter">
+    <img src="https://user-images.githubusercontent.com/6385983/71632282-b273ff00-2bdb-11ea-9a62-554cfce1c016.png" alt="Google Domain Filter" title="Google Domain Filter" width="64px"/>
+  </a>
+</p>
