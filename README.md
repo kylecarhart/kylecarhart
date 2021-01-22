@@ -1,15 +1,14 @@
-## Hello! 👋
+## Hello World! 👋
 
 My name is **Kyle Carhart**! 
 
 - 🎓 I am Computer Science graduate from the **Univeristy of South Carolina** (Go Cocks! 🐓🎉).
-  - 3.93 GPA! 🧐
 - 💻 I currently work for **Capgemini** as an IT consultant.
   - I work mostly on supporting old **Java** applications and **Oracle** databases.
 - ⚡ My true passions of **Web Design and Development**. I love creating apps in my free time!
-
-
-I love all things Javascript! 🧡💯🔥
+  - 🧡 Javascript
+  - 💙 CSS
+  - 💛 React
 
 ### Check out some of my projects!
 
