@@ -14,6 +14,6 @@ My name is **Kyle Carhart**!
 
 <p align="center">
   <a href="https://github.com/KMCGamer/google-domain-filter">
-    <img src="https://user-images.githubusercontent.com/6385983/71632282-b273ff00-2bdb-11ea-9a62-554cfce1c016.png" alt="Google Domain Filter" title="Google Domain Filter" width="64px"/>
+    <img src="https://user-images.githubusercontent.com/77036988/144765937-37ed8059-0c5f-4c7d-9670-4efd496d1ab2.png" alt="Google Domain Filter" title="Google Domain Filter" width="64px"/>
   </a>
 </p>
