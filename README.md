@@ -3,8 +3,9 @@
 My name is **Kyle Carhart**! 
 
 - 🎓 I am Computer Science graduate from the **Univeristy of South Carolina** (Go Cocks! 🐓🎉).
-- 💻 I currently work for **Capgemini** as an IT consultant.
-  - I work mostly on supporting old **Java** applications and **Oracle** databases.
+- 💻 I work for **Capgemini** as an IT consultant.
+  - I am currently working on building apps using **React** and **Next.js**!
+  - I've also supported old **Java** applications and **Oracle** databases.
 - ⚡ My true passions are **Web Design and Development**. I love creating apps in my free time!
   - 🚀 Javascript
   - 🖌️ CSS
